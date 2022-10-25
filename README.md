@@ -1,0 +1,4 @@
+- 👋 Hey my name is Joshua i'm a passionate up and coming web developler. 
+- I’m currently learning HTML, CSS, Javascript, React, how to use Git and much more...  
+- 
+- My journey has just started but I will become a web developer.
