@@ -5,6 +5,7 @@ Since June 2022 :date: I have been learning how to code and create websites. So 
 There is still lots to learn React, Nextjs, how to use Git(More in depth), back-end tools/coding and much more...
 
 With all of this hard work through pratice and dedication I hope to improve my skill-set and to continue to increase my knowledge. 
+
 :star:The Goal is to become a Front-end Web developer/Software Engineering in 2023.:star: 
 
 
