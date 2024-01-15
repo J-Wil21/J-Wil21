@@ -6,7 +6,7 @@ There is still lots to learn Redux in React, Nextjs, back-end tools/coding and m
 
 With all of this hard work through pratice and dedication I hope to improve my skill-set and to continue to increase my knowledge. 
 
-:star:The Goal is to become a Front-end Web developer/Software Engineering in 2023.:star: 
+:star:The Goal is to become a Front-end Web developer/Software Engineering.:star: 
 
 
 
